@@ -32,6 +32,9 @@
         }
     }
 
+
+
+/*
     $test = new Storage();
     $test->storeObject('foo', 'bar');;
     try {
@@ -41,5 +44,5 @@
         echo $e;
     }
     $test->removeObject('foo');
-
+*/
 ?>
